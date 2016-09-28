@@ -3,6 +3,5 @@ Learning testing.
 
 It's me again. Learning how to use GitHub.
 
-
-***Adding something new***
-Hello there!
+**Deleted existing text from the NewBranch***
+On github saved changes are called ccommits.
