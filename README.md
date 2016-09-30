@@ -1,2 +1,5 @@
-# MyFirstRep
-Learning testing.
+ MyFirstRepository
+ 
+ Learning testing.
+
+ GitHub is a repository for showing the bare minimum of GitHub and how to maneuver, function, etc
